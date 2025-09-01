@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import idliDosaImage from "@/assets/idli.jpg";
-import chapathiImage from "@/assets/chapathii.jpg";
-import pooriImage from "@/assets/poori.png";
+import chapathiImage from "@/assets/chapathi.jpg";
+import pooriImage from "@/assets/poori.jpg";
 import parota from "@/assets/parota.jpg";
 
 interface ProductCategory {
