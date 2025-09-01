@@ -130,6 +130,7 @@ const Contact = () => {
                     <h3 className="font-semibold text-foreground mb-2">Phone</h3>
                     <p className="text-muted-foreground">
                       90259 21448<br />
+                      90259 21448
                     </p>
                   </div>
                 </div>
